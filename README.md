@@ -1,104 +1,63 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eric Bedoya Rendón - Professional Profile</title>
-    <style>
-        /* Styles for Eric's Professional Profile */
-        body {
-            font-family: Arial, sans-serif;
-            color: #333;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f4f4f9;
-        }
-        header {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        header h1 {
-            color: #0073b1;
-        }
-        .section {
-            background-color: #ffffff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            margin-bottom: 20px;
-        }
-        h2 {
-            color: #0073b1;
-            border-bottom: 2px solid #0073b1;
-            padding-bottom: 5px;
-            margin-bottom: 10px;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        ul li {
-            margin-bottom: 10px;
-        }
-        a {
-            color: #0073b1;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        footer {
-            text-align: center;
-            font-size: 0.9em;
-            color: #666;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Eric Bedoya Rendón</h1>
-        <p>Software Engineer and Developer</p>
-    </header>
-    <!-- About Section -->
-    <section class="section" id="about">
-        <h2>About Me</h2>
-        <p>I am a dedicated software engineer with experience in developing microservices, batch data ingestion systems, and real-time data processing solutions. I have a strong foundation in Rust and Python, and I am committed to creating efficient, scalable applications that meet industry standards.</p>
-    </section>
-    <!-- Skills Section -->
-    <section class="section" id="skills">
-        <h2>Skills</h2>
-        <ul>
-            <li>Programming Languages: Rust, Python, JavaScript</li>
-            <li>Web Frameworks: Actix Web, Flask, FastAPI</li>
-            <li>Data Management: MySQL, PostgreSQL, AWS S3, AWS Lambda</li>
-            <li>DevOps: Docker, Docker Compose, Jenkins, GitHub Actions</li>
-            <li>Testing and Automation: Postman, Jenkins, Unit Testing, Integration Testing</li>
-            <li>Message Brokers: RabbitMQ, Redis</li>
-        </ul>
-    </section>
-    <!-- Projects Section -->
-    <section class="section" id="projects">
-        <h2>Projects</h2>
-        <ul>
-            <li><strong>Notification System:</strong> Developed a notification microservice using Actix Web in Rust, integrated with email, SMS, and WhatsApp channels, leveraging Vonage API and lettre for email communication.</li>
-            <li><strong>Data Lake Ingestion Pipeline:</strong> Created a batch ingestion system for AWS S3, managing file uploads, validations, metadata processing, and data structuring with custom folder hierarchies.</li>
-            <li><strong>Authentication Service:</strong> Built an authentication and user management microservice in Go, implementing secure login, registration, and profile management with JWT tokens.</li>
-            <li><strong>Log Management Service:</strong> Implemented a centralized logging service using Python and Docker, integrated with RabbitMQ for real-time log streaming between microservices.</li>
-        </ul>
-    </section>
-    <!-- Contact Section -->
-    <section class="section" id="contact">
-        <h2>Contact</h2>
-        <ul>
-            <li>Email: <a href="mailto:eric.bedoyar@uqvirtual.edu.co">eric.bedoyar@uqvirtual.edu.co</a></li>
-            <li>LinkedIn: <a href="https://www.linkedin.com/in/eric-bedoya-rendon-576b6232b/" target="_blank">LinkedIn Profile</a></li>
-        </ul>
-    </section>
-    <footer>
-    </footer>
+# Hi there 👋
 
-</body>
-</html>
+<img src="https://profile-counter.glitch.me/eric-bedoya/count.svg">
+
+[![GitHub followers](https://img.shields.io/github/followers/eric-bedoya.svg?style=social&label=Followers)](https://github.com/eric-bedoya?tab=followers)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Eric!;I'm+a+Software+Engineer...;Specialized+in+Rust+and+Python;And+I'm+excited+to+collaborate!)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=eric-bedoya&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
+## Here's some fun facts about me:
+
+- 🔭 I’m currently working on Microservices and Data Ingestion Systems
+- 🌱 I've got solid experience in Rust, Python, and Cloud Services
+- 👯 I’m looking to collaborate on scalable backend projects
+- 💬 Ask me about Rust, Python, and AWS
+- 📫 I am also a technical writer and enjoy sharing knowledge
+
+---
+
+### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=eric-bedoya&theme=gruvbox" alt="eric-bedoya stats" /></p>
+
+---
+
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-bedoya&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="eric-bedoya top languages" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=eric-bedoya&show_icons=true&locale=en&theme=gruvbox" alt="eric-bedoya stats" width="410" /></p>
+
+---
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eric-bedoya&theme=gruvbox&hide_border=true&area=true)
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
+<p align="left">
+  <a href="https://rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
+  <a href="https://python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/></a>
+  <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+</p>
+
+### 👉 Frameworks
+<p align="left">
+  <a href="https://actix.rs/"><img alt="Actix" src="https://img.shields.io/badge/Actix-4B8BBE?style=for-the-badge&logo=rust&logoColor=white"/></a>
+  <a href="https://flask.palletsprojects.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+</p>
+
+### 👉 Databases & Cloud
+<p align="left">
+  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+</p>
+
+### Contact
+<p align="left">
+  <a href="mailto:eric.bedoyar@uqvirtual.edu.co"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eric-bedoya-rendon-576b6232b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
