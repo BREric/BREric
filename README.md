@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I am <a href="https://aristi.dev">Eric Bedoya Rendon</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/NMpxEi7">
+<img src="https://i.imgur.com/qRmfjm6.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/BREric.svg?style=social&label=Followers)](https://github.com/BREric?tab=followers)
 
