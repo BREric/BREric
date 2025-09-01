@@ -1,6 +1,7 @@
-# Hi there 👋
-
-<img src="https://profile-counter.glitch.me/BREric/count.svg">
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+</div>
+<img src="https://imgur.com/a/NMpxEi7">
 
 [![GitHub followers](https://img.shields.io/github/followers/BREric.svg?style=social&label=Followers)](https://github.com/BREric?tab=followers)
 
