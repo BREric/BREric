@@ -15,13 +15,20 @@
   <a href="https://www.linkedin.com/in/ericbrdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-## Here's some fun facts about me:
+## 👋 About Me  
 
-- 🔭 I’m currently working on Microservices and Data Ingestion Systems
-- 🌱 I've got solid experience in Rust, Python, Java, and Cloud Services
-- 👯 I’m looking to collaborate on scalable backend projects
-- 💬 Ask me about Rust, Python, Java, and AWS
-- 📫 I am also a technical writer and enjoy sharing knowledge
+<p align="justify">
+Hi, I am <b>Eric</b>, 21 years old, and my journey in programming started back in <b>2020</b> thanks to a <i>MinTIC</i> program. I joined without big expectations, but soon I discovered a passion I never imagined: <b>creating solutions with code 💻</b>.
+</p>
+
+<p align="justify">
+That experience motivated me to keep learning and growing in the software world. Later, I received a <b>scholarship</b> that allowed me to start my degree in <b>Computer Science and Engineering</b>. It wasn’t easy—I faced challenges and even thought about quitting. Nevertheless, I continued, and I <b>graduated earlier than expected</b> with a strong academic record 🎯.
+</p>
+
+<p align="justify">
+Today, I am motivated to keep <b>learning</b>, <b>improving my skills</b>, and making a <b>positive impact in people’s lives 🌍</b>.  
+I believe in <b>continuous growth</b>, <b>teamwork</b>, and the importance of combining <b>technical knowledge</b> with <b>personal resilience</b> to achieve great results 🚀.
+</p>
 
 ---
 
