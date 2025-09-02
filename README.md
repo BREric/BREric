@@ -5,7 +5,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/BREric.svg?style=social&label=Followers)](https://github.com/BREric?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Eric!;I'm+a+Software+Engineer...;Specialized+in+Rust+and+Python;And+I'm+excited+to+collaborate!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Eric!;I'm+a+Software+Engineer...;Specialized+in+Java+Spring+Boot+and+Python;And+I'm+available+for+work!)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=BREric&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
