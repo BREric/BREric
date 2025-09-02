@@ -10,7 +10,7 @@ w<div align="center">
 <img src="https://komarev.com/ghpvc/?username=BREric&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 ### Contact
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ing.ericbr@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ing.ericbr@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ericbrdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
