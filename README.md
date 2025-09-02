@@ -1,4 +1,4 @@
-w<div align="center">
+<div align="center">
 <h1 align="center">Hi, I am <a href="https://www.linkedin.com/in/ericbrdev/">Eric Bedoya Rendon</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/qRmfjm6.png">
