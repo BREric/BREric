@@ -1,4 +1,4 @@
-<div align="center">
+w<div align="center">
 <h1 align="center">Hi, I am <a href="https://www.linkedin.com/in/ericbrdev/">Eric Bedoya Rendon</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/qRmfjm6.png">
@@ -22,7 +22,7 @@ Hi, I am <b>Eric</b>, 21 years old, and my journey in programming started back i
 </p>
 
 <p align="justify">
-That experience motivated me to keep learning and growing in the software world. Later, I received a <b>scholarship</b> that allowed me to start my degree in <b>Computer Science and Engineering</b>. It wasn’t easy—I faced challenges and even thought about quitting. Nevertheless, I continued, and I <b>graduated earlier than expected</b> with a strong academic record 🎯.
+That experience motivated me to keep learning and growing in the software world. Later, I received a <b>scholarship</b> that allowed me to start my degree in <b>Computer Science and Engineering</b>. It wasn’t easy because I faced challenges and even thought about quitting. Nevertheless, I continued, and I <b>graduated earlier than expected</b> with a strong academic record 🎯.
 </p>
 
 <p align="justify">
