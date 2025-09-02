@@ -11,7 +11,9 @@ w<div align="center">
 
 ### Contact
 <p align="left">
-  <a href="mailto:ing.ericbr@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ing.ericbr@gmail.com?subject=Job%20Opportunity&body=Hello%20Eric,%20I%20would%20like%20to%20get%20in%20touch%20with%20you.">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
   <a href="https://www.linkedin.com/in/ericbrdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
